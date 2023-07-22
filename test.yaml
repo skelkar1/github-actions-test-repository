@@ -1,0 +1,27 @@
+
+  name: sarika
+  age: 28
+  address : "Street: 234"
+  active: true
+  key: 
+    key: value
+    key2 : 546
+  jsonObject: { key: value, key2: sdfsd }
+  array:
+    - a
+    - b
+    - { key: value }
+  jsonArray: [item1, item2, item3]
+  ObjectsArray:
+      - key: value
+        key01: value01
+      - key1: value1
+        key11: value11
+  longTextWithNoNewLines: >
+      sdfsdgertetsdgf wefsdgdfgdfgh sdfgsdfhsdgh 
+      sdfgsdfhhfwetsdf jhfjyass dsgfgjwer qsdgrtysa
+      g2 bertert svrhsev jyuewr
+  longTextWithNewLines: |
+      sdfsdgertetsdgf wefsdgdfgdfgh sdfgsdfhsdgh 
+      sdfgsdfhhfwetsdf jhfjyass dsgfgjwer qsdgrtysa
+      g2 bertert svrhsev jyuewr
